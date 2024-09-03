@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    display: flex;
+}
+
+input{
+    padding: 8px 200px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10px;
+    border: solid 2px rgb(158, 153, 153);
+}
+
+nav .material-icons {
+    position: absolute;
+    right: 33%;
+    top: 17px;
+    cursor: pointer;
+}
+
+nav .mic{
+    position: absolute;
+    right: 28%;
+    top: 17px;
+    cursor: pointer;
+}
+
+nav .more {
+    position: absolute;
+    right: 9%;
+    top: 17px;
+    cursor: pointer;
+}
+nav .perm {
+    position: absolute;
+    right: 5.9%;
+    top: 17px;
+    color: rgb(66, 66, 237);
+}
+
+.menu .bt1 {
+    position: absolute;
+    right: 2%;
+    top: 13px;
+    border: solid 2px rgb(241, 233, 233);
+    border-radius: 100px;
+    background-color: white;
+    width: 85px;
+    height: 33px;
+    text-align: center;
+    color: blue;
+}
+
+.left .menu {
+    position: absolute;
+    left: 1%;
+    top: 17px;
+    color: gray;
+}
+
+.left .slide {
+    position: absolute;
+    left: 3.5%;
+    top: 17px;
+    color: red;
+}
+
+.youtube h3{
+    font-family: "Roboto Condensed", sans-serif;
+    margin-top: 13px;
+}
+.left .home {
+    position: absolute;
+    left: 1%;
+    top: 70px;
+}
+
+.left .music {
+    position: absolute;
+    left: 1%;
+    top: 110px;
+}
+
+.left .sub {
+    position: absolute;
+    left: 1%;
+    top: 150px;
+}
+
+.left .video {
+    position: absolute;
+    left: 1%;
+    top: 230px;
+}
+.left .restore {
+    position: absolute;
+    left: 1%;
+    top: 270px;
+}
+
+.video .restore {
+    border: solid 2px gray;
+}
+
+.left p {
+    font-family: sans-serif;
+    position: absolute;
+    left: 1.5%;
+   bottom: 350px;
+}
+
+.left .me {
+    position: absolute;
+    left: 2.5%;
+    top: 405px;
+    color: rgb(30, 30, 241);
+}
+
+.left button {
+    position: absolute;
+    left: 2%;
+    top: 400px;
+    border: solid 2px rgb(241, 233, 233);
+    background-color: white;
+    padding: 5px;
+    width: 90px;
+    height: 35px;
+    border-radius: 50px;
+    color: blue;
+    text-align: end;
+}
+
+.p1 {
+    position: relative;
+    margin-top: 7%;
+    color: gray;
+}
+
+.p2 {
+   position: relative;
+   margin-top: 6%;
+   color: gray;
+}
+
+.p3 {
+    position: relative;
+    margin-top: -7%;
+    color: gray;
+}
+
+div h3 {
+    margin-top: 15px;
+    margin-left: 1%;
+    font-family: sans-serif;
+}
+.tv {
+    position: absolute;
+    left: 1%;
+    bottom: 220px;
+}
+
+.rack {
+    position: absolute;
+    left: 1%;
+    bottom: 180px;
+}
+
+.tion {
+    position: absolute;
+    left: 1%;
+    bottom: 140px;
+}
+.shot {
+    position: absolute;
+    left: 1%;
+    bottom: 100px;
+}
+.p4 {
+    position: relative;
+    color: gray;
+}
+.show {
+    position: absolute;
+    left: 1%;
+    bottom: 15px;
+    color: red;
+}
+
+.youtube ul{
+    margin-left: 4%;
+    list-style: none;
+    margin-top: -5.9%;
+    font-family: sans-serif;
+    font-size: 21px;
+}
+
+.text1 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 2%;
+}
+.text2 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 1.5%;
+}
+.text3 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 1.5%;
+}
+.text4 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 3.8%;
+}
+.text5 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 1.5%;
+}
+.text6 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 1.2%;
+}
+.text7 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 1.4%;
+}
+.text8 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 1.4%;
+}
+.text9 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 1.4%;
+}
+.text10 ul li {
+    font-family: sans-serif;
+    margin-left: 4.5%;
+    list-style: none;
+    margin-top: 0.9%;
+}
+
+
+
+.me1 {
+    margin-left: 17%;
+    margin-top: 1%;
+    padding: 8px 10px;
+    background-color: black;
+    border: solid 0px;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.me9{
+    margin-top: 1%;
+    margin-left: 0.5%;
+    padding: 8px 10px;
+    border: solid 0px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.me9:hover{
+    background-color: rgb(224, 224, 224);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 18%;
+    margin-top: -38%;
+    gap: 17px;
+}
+
+iframe { 
+    width: 400px;
+    height: 220px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.i1 {
+    font-family: sans-serif;
+    color: rgb(77, 74, 74);
+    font-size: 15px;
+    margin-left: 1%;
+}
